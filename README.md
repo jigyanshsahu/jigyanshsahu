@@ -6,7 +6,7 @@
 
 <div align="center">
  
-<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm jigyansh</h2>
+<h2 style="font-family: 'Orbitron', sans-serif; color: #4B0082; font-weight: bold;">Hey there! I'm Jigyansh</h2>
 <p style="font-size: 18px; color: #333; line-height: 1.6;">🚀 Aspiring software engineer exploring algorithms, data structures, and real-world projects.</p>
 
 <img align="center" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;"><img align="right" src="https://user-images.githubusercontent.com/65187002/144930161-2f783401-8d27-4fdf-a2f7-cc0ba32f1f1f.gif" width="25%" style="display:inline;">
