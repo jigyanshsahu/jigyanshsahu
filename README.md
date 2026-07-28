@@ -31,7 +31,6 @@
 
 # 💻 Tech Stack:
 
-![Tech GIF](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxoemxwMmJ2cHhua2RrNHN2bzAyMW9panU3MWIxcnh4bjZxdnB0YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/br99SojJZ5rlfSYset/giphy.gif)
 
 <div align="center">
     <h1>Skill Set &nbsp; <img src='https://user-images.githubusercontent.com/74038190/206662607-d9e7591e-bbf9-42f9-9386-29efc927bc16.gif' width="40"> </h1>
